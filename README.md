@@ -2,6 +2,8 @@
 
 
 I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Full Stack Web Development and Data Science.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-square&label=PROFILE+VIEWS)
 <!--
 **shsarv/shsarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
