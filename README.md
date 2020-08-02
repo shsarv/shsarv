@@ -1,15 +1,18 @@
 ### Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+
+I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Full Stack Web Development and Data Science.
+
 <!--
 **shsarv/shsarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--:heart: Programming | :black_heart: programming | :blue_heart: Anime-->
 
-- 🔭 I’m currently working on Machine Learning Based Projects.
+<!-- 🔭 I’m currently working on Machine Learning Based Projects.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | Machine Learning.
-- 👯 I’m looking to collaborate on on Machine Learning and Web Development Projects.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I’m looking for help with Backend Development.
-- 💬 Ask me about Data Science.I will try to help you as much as I can.
+- 👯 I’m looking to collaborate  on Machine Learning and Web Development Projects.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I’m looking for help in Backend Development.
+- 💬 Ask me about Data Science.I will try to help you as much as I can.-->
 - ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
 - 📫 How to reach me: ...
 
