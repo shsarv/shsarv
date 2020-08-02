@@ -13,7 +13,7 @@
 - ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
 - 📫 How to reach me: ...
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/shsarv) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/sarveshroli) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/shsarv) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com//in/sarvesh-kumar-sharma-869a1b185/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](shsarv2001@gmail.com)
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 
 ----
 
