@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Full Stack Web Development and Data Science.
