@@ -8,7 +8,7 @@
 
 <!--:heart: Programming | :black_heart: programming | :blue_heart: Anime-->
 - 🔭 I’m currently working on Machine Learning Based Projects.
-- 🌱 I’m currently learning Data Science | Machine Learning. | Full Stack Web development 
+- 🌱 Learning Data Science | Machine Learning. | Full Stack Web development 
 - ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
 
 <!-- 🔭 I’m currently working on Machine Learning Based Projects.
