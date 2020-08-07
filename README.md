@@ -1,6 +1,10 @@
 ### Hello World <!--👋--> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
+![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+
+
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
@@ -24,12 +28,6 @@ Reach me -<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" 
 |---|---|---|---|---|---|
 
 ####  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&show_icons=true&theme=highcontrast) ______ ![Sarvesh Kumar Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&theme=highcontrast) 
-
-
-
-
-![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
 
 
  **✨ -sarv**
