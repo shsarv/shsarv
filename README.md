@@ -7,10 +7,7 @@
 
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<!--
-**shsarv/shsarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--:heart: Programming | :black_heart: programming | :blue_heart: Anime-->
 - 🔭 I’m currently working on Machine Learning Based Projects.
 - 🌱 Learning Data Science | Machine Learning. | Full Stack Web development 
 - ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
