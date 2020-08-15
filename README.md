@@ -7,11 +7,6 @@
 
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
-- 🔭 I’m currently working on Machine Learning Based Projects.
-- 🌱 Learning Data Science | Machine Learning. | Full Stack Web development 
-- ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
-
 <!-- 🔭 I’m currently working on Machine Learning Based Projects.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | Machine Learning.
 - 👯 I’m looking to collaborate  on Machine Learning and Web Development Projects.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
