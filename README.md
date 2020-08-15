@@ -1,4 +1,4 @@
-### Hello World <!--👋--> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 ![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-square&label=PROFILE+VIEWS)
