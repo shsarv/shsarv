@@ -19,7 +19,7 @@ Reach me -<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" 
 | [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/github.png" alt="github logo" width="34">](https://github.com/shsarv) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/twitter.png" alt="twitter logo" width="34">](https://twitter.com/sarveshroli) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com//in/sarvesh-kumar-sharma-869a1b185/) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/gmail.jpeg" alt="gmail logo" width="24">](shsarv2001@gmail.com) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/hackerrank.jpg" alt="hackerrank logo" width="24">](https://www.hackerrank.com/_181500625) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/Sourcerer.jpg" alt="Sourcerer logo" width="24">](https://sourcerer.io/shsarv) 
 |---|---|---|---|---|---|
 
-####  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&show_icons=true&theme=highcontrast) ______ ![Sarvesh Kumar Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&theme=onedark) 
+####  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&show_icons=true&theme=highcontrast) ______ ![Sarvesh Kumar Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&theme=synthwave) 
 
 
  **✨ -sarvesh Kumar Sharma**
