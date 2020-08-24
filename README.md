@@ -34,29 +34,29 @@
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"><br>OpenCV</td>
              <td  align = "center"><img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="tf" border="0" height=30><br>Tensorflow</td>
-             <td  align = "center"><img src="re/sklearn.jpg" alt="tf" border="0" height=30><br>Scikit learn</td>
-             <td  align = "center"><img src="re/keras.png" alt="tf" border="0" height=30><br>Keras</td>
-             <td  align = "center"><img src="re/scipy.png" alt="tf" border="0" height=30><br>Scipy</td>
-             <td  align = "center"><img src="re/seaborn.png" alt="tf" border="0" height=30><br>seaborn</td>
-             <td  align = "center"><img src="re/ipython.png" alt="tf" border="0" height=30><br>ipython</td>
+             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/sklearn.jpg" alt="tf" border="0" height=30><br>Scikit learn</td>
+             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/keras.png" alt="tf" border="0" height=30><br>Keras</td>
+             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/scipy.png" alt="tf" border="0" height=30><br>Scipy</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/seaborn.png" alt="tf" border="0" height=30><br>seaborn</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/ipython.png" alt="tf" border="0" height=30><br>ipython</td>
          </tr>
          <tr align="center">
              <td  align = "center"><img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" alt="jupyter" border="0" height=30><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
             <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
-             <td  align = "center"><img src="re/pandas.png" alt="tf" border="0" height=30><br>pandas</td>
-             <td  align = "center"><img src="re/numpy.png" alt="tf" border="0" height=30><br>numpy</td>
-             <td  align = "center"><img src="re/anoconda.png" alt="tf" border="0" height=30><br>Anaconda</td>
-             <td  align = "center"><img src="re/matplotlib.png" alt="tf" border="0" height=30><br>matplotlib</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pandas.png" alt="tf" border="0" height=30><br>pandas</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/numpy.png" alt="tf" border="0" height=30><br>numpy</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/anoconda.png" alt="tf" border="0" height=30><br>Anaconda</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/matplotlib.png" alt="tf" border="0" height=30><br>matplotlib</td>
          </tr>
          <tr align="center">
              <td  align = "center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=30/><br>React.js</td>
-             <td  align = "center"><img src="re/node.jpg" alt="tf" border="0" height=30><br>node js</td> 
-             <td  align = "center"><img src="re/spyder.png" alt="tf" border="0" height=30><br>spyder</td>
-             <td  align = "center"><img src="re/pycharm.jpg" alt="tf" border="0" height=30><br>pycharm</td>
-             <td  align = "center"><img src="re/intellij.jpg" alt="tf" border="0" height=30><br>intellij</td>
-             <td  align = "center"><img src="re/vscode.jpg" alt="tf" border="0" height=30><br>vscode</td>
-             <td  align = "center"><img src="re/flask.png" alt="tf" border="0" height=30><br>flask</td>  
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/node.jpg" alt="tf" border="0" height=30><br>node js</td> 
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/spyder.png" alt="tf" border="0" height=30><br>spyder</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" alt="tf" border="0" height=30><br>pycharm</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/intellij.jpg" alt="tf" border="0" height=30><br>intellij</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/vscode.jpg" alt="tf" border="0" height=30><br>vscode</td>
+             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/flask.png" alt="tf" border="0" height=30><br>flask</td>  
          </tr>
          <tr align="center">
          </tr>
