@@ -77,10 +77,10 @@
 <details>
     <summary align="center"><strong>Repositories You May Like</strong></summary></br>
 
-<a href="https://github.com/OddExtension5/repo-search-app">
+<a href="https://github.com/shsarv/machine-learning-Projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=machine-learning-Projects" />
 </a>
-<a href="https://github.com/OddExtension5/Analyzing-Baseball-Statistics">
+<a href="https://github.com/shsarv/Diabetes-prediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=Diabetes-prediction" />
 </a>
     
