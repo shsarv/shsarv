@@ -5,12 +5,12 @@
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&hide_border=false&text_color=641e16&icon_color=red&bg_color=white&title_color=blue" alt="Profile Stats"/><br>
 </p>
 
-<details align="center">
+<details>
     <summary align="center"><strong>Languages:</strong></summary>
-     <table align="center">
+     <table align="center" border="0">
          <tr align="center">
             <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
@@ -25,10 +25,10 @@
          </tr>
      </table>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&layout=compact&show=javascript&show_icons=true&theme=dark" alt="Profile Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&layout=normal&show=javascript&show_icons=true" alt="Profile Stats"/><br>
 </p>
 </details>
- <details align="center">
+ <details>
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
      <table align="center">
          <tr align="center">
