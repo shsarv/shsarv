@@ -21,6 +21,9 @@
 <details>
 
 <summary><strong>Worked with🌱: </strong></summary>
+
+<br>
+
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
@@ -61,9 +64,12 @@
 </details>
 
 <details><summary><strong>Top Languages💬:</strong></summary>
+  
+  <br>
+  
  <p align="center">
 <a href = "https://github.com/shsarv">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&layout=&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 </details>
@@ -71,6 +77,9 @@
 
 <details>
 <summary><strong>Repositories You May Like</strong></strong></summary>
+
+<br>
+
 <a href="https://github.com/shsarv/machine-learning-Projects">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=machine-learning-Projects" />
 </a>
