@@ -78,7 +78,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=Diabetes-prediction" />
 </a>  
 </details>
-
 <br>
-
-### ✨good wishes
+<br>
+<h4 align=center>✨good wishes</h4>
