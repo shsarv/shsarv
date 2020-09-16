@@ -4,101 +4,81 @@
 
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+#### Connect:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sarvesh%20Kumar%20Sharma-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/)](https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/) [![Instagram Badge](https://img.shields.io/badge/-@astro2sarvesh-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/astro2sarvesh)](https://www.instagram.com/astro2sarvesh) [![Twitter Badge](https://img.shields.io/badge/-@sarveshroli-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sarveshroli)](https://twitter.com/sarveshroli) [![GitHub Badge](https://img.shields.io/badge/-@shsarv-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shsarv)](https://github.com/shsarv) [![Gmail Badge](https://img.shields.io/badge/-@shsarv2001-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:shsarv2001@gmail.com)](mailto:shsarv2001@gmail.com) [![Sourcer Badge](https://img.shields.io/badge/Sourcer-@shsarv-brightgreen?style=flat-circle&labelColor=&logo=data:Sourcerer.jpg&logoColor=white&link=https://sourcerer.io/shsarv)](https://sourcerer.io/shsarv) [![gitstats Badge](https://img.shields.io/badge/GitStats-@shsarv-blue?style=flat-circle&labelColor=orange&logo=data:Sourcerer.jpg&logoColor=white&link=https://gitstats.me/shsarv)](https://gitstats.me/shsarv)
+
+
+
+#### GitHub Stats⚡:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&hide_border=false&text_color=641e16&icon_color=red&bg_color=white&title_color=blue" alt="Profile Stats"/><br>
-</p>
+  <a href = "https://github.com/kishan0725">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 
 <details>
-    <summary align="center"><strong>Languages:</strong></summary>
-     <table align="center" border="0">
-         <tr align="center">
-            <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
-             <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
-             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/php.png"alt="tf" border="0" height=30><br>PHP</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML5</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS3</td>
-             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
-         </tr>
-     </table>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&layout=normal&show=javascript&show_icons=true" alt="Profile Stats"/><br>
+
+<summary><strong>Worked with🌱: </strong></summary>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" title="php"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" title="django"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" title="TensorFlow"></code>
+<code><img height="40" src="https://i.ibb.co/f2Svrpk/opencv.png" title="OpenCv"></code>
+<code><img height="40" src="https://github.com/shsarv/shsarv/blob/master/re/keras.png" title="Keras"></code>
+<code><img height="40" src="https://github.com/shsarv/shsarv/blob/master/re/scipy.png" title="Scipy"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/seaborn.png" title="Seaborn"></code>
+<code><img height="40" src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" title="Jupyter"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pandas.png" title="Pandas"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/numpy.png" title="Numpy"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/matplotlib.png" title="Matplotlib"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/spyder.png" title="Spyder"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/intellij.jpg" title="intellij"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/anoconda.png" title="Anoconda"></code>
+<!--<code><img height="40" src="" title=""></code>
+<code><img height="40" src="" title=""></code>
+<code><img height="40" src="" title=""></code>
+<code><img height="40" src="" title=""></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" title="react"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="angular"></code> -->
+<!--<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="spring-boot"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" title="express.js"></code> -->
+</details>
+
+<details><summary><strong>Top Languages💬 :</strong></summary>
+ <p align="center">
+<a href = "https://github.com/shsarv">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
 </p>
 </details>
- <details>
-    <summary align="center"><strong>Tools and Technologies:</strong></summary>
-     <table align="center">
-         <tr align="center">
-             <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"><br>OpenCV</td>
-             <td  align = "center"><img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="tf" border="0" height=30><br>Tensorflow</td>
-             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/sklearn.jpg" alt="tf" border="0" height=30><br>Scikit learn</td>
-             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/keras.png" alt="tf" border="0" height=30><br>Keras</td>
-             <td  align = "center"><img src="https://github.com/shsarv/shsarv/blob/master/re/scipy.png" alt="tf" border="0" height=30><br>Scipy</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/seaborn.png" alt="tf" border="0" height=30><br>seaborn</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/ipython.png" alt="tf" border="0" height=30><br>ipython</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" alt="jupyter" border="0" height=30><br>Jupyter Notebook</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
-            <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pandas.png" alt="tf" border="0" height=30><br>pandas</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/numpy.png" alt="tf" border="0" height=30><br>numpy</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/anoconda.png" alt="tf" border="0" height=30><br>Anaconda</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/matplotlib.png" alt="tf" border="0" height=30><br>matplotlib</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=30/><br>React.js</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/node.jpg" alt="tf" border="0" height=30><br>node js</td> 
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/spyder.png" alt="tf" border="0" height=30><br>spyder</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" alt="tf" border="0" height=30><br>pycharm</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/intellij.jpg" alt="tf" border="0" height=30><br>intellij</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/vscode.jpg" alt="tf" border="0" height=30><br>vscode</td>
-             <td  align = "center"><img src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/flask.png" alt="tf" border="0" height=30><br>flask</td>  
-         </tr>
-         <tr align="center">
-         </tr>
-     </table>
-        </details>
-        
-<details align="center">
-<summary align="center"><strong>Contact</strong></summary></br>
 
-
-
-| [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/github.png" alt="github logo" width="34">](https://github.com/shsarv) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/twitter.png" alt="twitter logo" width="34">](https://twitter.com/sarveshroli) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com//in/sarvesh-kumar-sharma-869a1b185/) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/gmail.jpeg" alt="gmail logo" width="24">](shsarv2001@gmail.com) | [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/Sourcerer.jpg" alt="Sourcerer logo" width="24">](https://sourcerer.io/shsarv) |  [<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/Annotation%202020-08-22%20144739.jpg" alt="gitstats logo" width="24">](https://gitstats.me/shsarv) |
-|---|---|---|---|---|---|
-
-
-</details>
 
 <details>
-    <summary align="center"><strong>Repositories You May Like</strong></summary></br>
-
+<summary><strong>Repositories You May Like</strong></strong></summary>
 <a href="https://github.com/shsarv/machine-learning-Projects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=machine-learning-Projects" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=machine-learning-Projects" />
 </a>
 <a href="https://github.com/shsarv/Diabetes-prediction">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=Diabetes-prediction" />
-</a>
-    
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=Diabetes-prediction" />
+</a>  
 </details>
 
-
-<!-- 🔭 I’m currently working on Machine Learning Based Projects.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | Machine Learning.
-- 👯 I’m looking to collaborate  on Machine Learning and Web Development Projects.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I’m looking for help in Backend Development.
-- 💬 Ask me about Data Science.I will try to help you as much as I can
-- ⚡ Quote : You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
-- 📫 How to reach me: .... 
-Reach me -<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">   -->
-
-
-<br>
 <br>
 
-
-**✨good wishes**
+### ✨good wishes
