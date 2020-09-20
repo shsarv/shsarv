@@ -1,6 +1,6 @@
 ### Hello 👋 World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-circle&label=PROFILE+VIEWS)
 
 **I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
