@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-circle&label=PROFILE+VIEWS)
 
-**I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**I am a 3rd Year Computer Science Engineering Student. I love Machine Learning and trying to find more about Data Science and Full Stack Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> githubbing since june 2020.
 
 #### Connect:
 
