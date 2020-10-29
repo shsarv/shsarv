@@ -77,18 +77,16 @@
 </details>
 
 
-<details>
+<!--<details>
 <summary><strong>Repositories You May Like</strong></strong></summary>
-
 <br>
-
 <a href="https://github.com/shsarv/machine-learning-Projects">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=ML-Projects-in-Python" />
 </a>
 <a href="https://github.com/shsarv/Diabetes-prediction">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shsarv&repo=Diabetes-prediction" />
 </a>  
-</details>
+</details> -->
 
 
 
