@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Sarvesh Kumar Sharma](https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/), a Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I am enhancing  my skills by solving various problems using machine learning, data mining, and other types of data analytics and data visualization tools  such as Python ,TensorFlow ,seaborn, and keras etc. Beside's programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , I enjoy cooking and traveling .
+<p align="justify">Hi, I'm <a href="https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/">Sarvesh Kumar Sharma</a>, a Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I am enhancing  my skills by solving various problems using machine learning, data mining, and other types of data analytics and data visualization tools  such as Python ,TensorFlow ,seaborn, and keras etc. Beside's programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , I enjoy cooking and traveling .</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
