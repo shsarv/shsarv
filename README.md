@@ -48,5 +48,5 @@
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 
 
-<center><h3>😇Thanks for the visit. Good Wishes💐</h3></center>
+<h3 align="center">😇Thanks for the visit. Good Wishes💐</h3>
 
