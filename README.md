@@ -44,8 +44,9 @@
 <code><img height="30" src="https://github.com/shsarv/shsarv/blob/master/re/scipy.png" title="Scipy"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/seaborn.png" title="Seaborn"></code>
 <code><img height="30" src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" title="Jupyter"></code>
+<img align="right" alt="GIF" src="https://images.unsplash.com/photo-1514483127413-f72f273478c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="350" height="30" />
 <br />
-  <img align="right" alt="GIF" src="https://images.unsplash.com/photo-1514483127413-f72f273478c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="350" height="30" />
+  
 
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a>
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
