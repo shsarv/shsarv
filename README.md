@@ -23,10 +23,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" title="php"></code>
+<code><img height="35" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" title="python"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" title="javascript"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" title="html5"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" title="php"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
 <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
 <code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
