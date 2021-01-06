@@ -23,29 +23,34 @@
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" title="python"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" title="javascript"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" title="html5"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" title="php"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" title="django"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="python"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="javascript"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="html5"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" title="php"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" title="jquery"></code>
+<code><img height="30" src="https://www.flaticon.com/premium-icon/icons/svg/3665/3665899.svg" title="C"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" title="css"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" title="java"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" title="flask"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="django"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="node.js"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="react"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="mysql"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="30" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" title="TensorFlow"></code>
-<code><img height="30" src="https://i.ibb.co/f2Svrpk/opencv.png" title="OpenCv"></code>
-<code><img height="30" src="https://github.com/shsarv/shsarv/blob/master/re/keras.png" title="Keras"></code>
-<code><img height="30" src="https://github.com/shsarv/shsarv/blob/master/re/scipy.png" title="Scipy"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/seaborn.png" title="Seaborn"></code>
-<code><img height="30" src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" title="Jupyter"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="linux"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180805/kff/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768dfc2b8.4692877115335279129165.jpg" title="sklearn"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" title="TensorFlow"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" title="OpenCv"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" title="Scipy"></code>
+<code><img height="20" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" title="Jupyter"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" title="hadoop"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/cnn/cnn-ar21.svg" title="CNN"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="mongodb"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/deepl/deepl-ar21.svg" title="deep Learning"></code>
 <br />
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
+<h3 align="center"> Motivate me with ⭐</h3>
 <h3 align="center">😇Thanks for the visit. Good Wishes💐</h3>
 
