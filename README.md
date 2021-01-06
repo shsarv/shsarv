@@ -23,7 +23,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="python"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="python"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="javascript"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="html5"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" title="php"></code>
