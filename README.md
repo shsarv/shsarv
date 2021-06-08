@@ -6,10 +6,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdlin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/)](https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/astro2sarvesh)  [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarveshroli)  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shsarv2001@gmail.com)  [![Sourcer Badge](https://img.shields.io/badge/-CodersRank-blue?style=for-the-badge&labelColor=black&logo=icon&logoColor=white&link=https://profile.codersrank.io/user/shsarv/)](https://profile.codersrank.io/user/shsarv/)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://shsarv.medium.com/)](https://shsarv.medium.com/) [![mywebsite Badge](https://img.shields.io/badge/-Portfolio-5e0270?style=for-the-badge&labelColor=5e0270&logo=google-earth&logoColor=white&link=https://shsarv.herokuapp.com/)](https://shsarv.herokuapp.com/)  <!--[![gitstats Badge](https://img.shields.io/badge/GitStats-@shsarv-blue?style=flat-circle&labelColor=orange&logo=data:Sourcerer.jpg&logoColor=white&link=https://gitstats.me/shsarv)](https://gitstats.me/shsarv) [![GitHub Badge](https://img.shields.io/badge/-github-24292e?style=for-the-badge&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shsarv)](https://github.com/shsarv) [![Blogger Badge](https://img.shields.io/badge/blog-fc4f08?&style=for-the-badge&logo=blogger&logoColor=white)](https://shsarv.blogspot.com/)-->
 
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsarv" alt="shsarv" /></a> </p>
 <br />
 
 <p align="justify">Hi, I'm <a href="https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/">Sarvesh Kumar Sharma</a>, a Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I am enhancing  my skills by solving various problems using machine learning, data mining, and other types of data analytics and data visualization tools  such as Python ,TensorFlow ,seaborn, and keras etc. Beside's programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , I enjoy cooking and traveling .</p>
+
+<details>
+  <summary> check complete profile here</summary>
+  
+  ![Metrics](https://metrics.lecoq.io/shsarv?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FKolkata)
+  
+  </details>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="500" height="320" />
   
@@ -50,6 +56,8 @@
 <br />
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsarv" alt="shsarv" /></a> </p> -->
 <!--https://github-readme-streak-stats.herokuapp.com/?user=shsarv&theme=dark-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shsarv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <h4 align="center"> if you like my work. please motivate me with ⭐</h4>
