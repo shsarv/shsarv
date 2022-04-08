@@ -1,65 +1,86 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
-![](https://komarev.com/ghpvc/?username=shsarv&color=blue&style=flat-circle&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shsarv&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Sarvesh+Kumar+Sharma;A+Data+Science+enthusiast;A+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Sarvesh+Kumar+Sharma;A+Data+Engineer;A+MERN+Stack+Developer;A+Learner;A+ML+Researcher;)](https://git.io/typing-svg)
+<!-- 
+<h3 align="left">Connect with me:</h3> -->
+<p align="left">
+  <a href="mailto:shsarv2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="shsarv" /></a>
+  <a href="https://twitter.com/sarveshroli" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshroli"  /></a>
+  <a href="https://instagram.com/astro2sarvesh" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="astro2sarvesh"  /></a>
+  <a href="https://medium.com/@shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=Medium&logoColor=white" alt="@shsarv"  /></a>
+  <a href="https://discord.gg/jxCz52dQ5d" target="blank"><img align="center" src="https://img.shields.io/badge/discord-5865f2?&style=for-the-badge&logo=discord&logoColor=white"  /></a>
+  <a href="https://kaggle.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-4285F4?&style=for-the-badge&logo=kaggle&logoColor=white" alt="shsarv"  /></a>
+  </p>
+  <details>
+    <summary> other contacts </summary>
+    <p align="left">
+<a href="https://codepen.io/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/codepen-black?&style=for-the-badge&logo=codepen&logoColor=white" alt="shsarv" /></a>
+<a href="https://stackoverflow.com/users/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-f48024?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="shsarv" /></a>
+<a href="https://www.codechef.com/users/shsarv2001" target="blank"><img align="center" src="https://img.shields.io/badge/codechef-9a7b4f?&style=for-the-badge&logo=codechef&logoColor=white" alt="shsarv2001" /></a>
+<a href="https://www.hackerrank.com/_181500625" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-09B83E?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="_181500625" /></a>
+<a href="https://codeforces.com/profile/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/codeforces-ee1d52?&style=for-the-badge&logo=codeforces&logoColor=white" alt="shsarv"  /></a>
+<a href="https://www.leetcode.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=white" alt="shsarv" /></a>
+<a href="https://www.hackerearth.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/hackerearth-white?&style=for-the-badge&logo=hackerearth&logoColor=black" alt="shsarv" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shsarv/profile" target="blank"><img align="center" src="https://img.shields.io/badge/gfg-17c9652?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="shsarv/profile"  /></a>   
+    </p>
   
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdlin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/)](https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/astro2sarvesh)  [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarveshroli)  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shsarv2001@gmail.com)  [![Sourcer Badge](https://img.shields.io/badge/-CodersRank-blue?style=for-the-badge&labelColor=black&logo=icon&logoColor=white&link=https://profile.codersrank.io/user/shsarv/)](https://profile.codersrank.io/user/shsarv/)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://shsarv.medium.com/)](https://shsarv.medium.com/) [![mywebsite Badge](https://img.shields.io/badge/-Portfolio-5e0270?style=for-the-badge&labelColor=5e0270&logo=google-earth&logoColor=white&link=https://shsarv.herokuapp.com/)](https://shsarv.herokuapp.com/)  <!--[![gitstats Badge](https://img.shields.io/badge/GitStats-@shsarv-blue?style=flat-circle&labelColor=orange&logo=data:Sourcerer.jpg&logoColor=white&link=https://gitstats.me/shsarv)](https://gitstats.me/shsarv) [![GitHub Badge](https://img.shields.io/badge/-github-24292e?style=for-the-badge&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shsarv)](https://github.com/shsarv) [![Blogger Badge](https://img.shields.io/badge/blog-fc4f08?&style=for-the-badge&logo=blogger&logoColor=white)](https://shsarv.blogspot.com/)-->
-
-<hr>
-<br />
-
-<p align="justify">Hi, I'm <a href="https://www.linkedin.com/in/sarvesh-kumar-sharma-869a1b185/">Sarvesh Kumar Sharma</a>, a Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I am enhancing  my skills by solving various problems using machine learning, data mining, and other types of data analytics and data visualization tools  such as Python ,TensorFlow ,seaborn, and keras etc. Beside's programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , I enjoy cooking and traveling .</p>
-
-<details>
-  <summary> check complete profile here</summary>
   
-  ![Metrics](https://metrics.lecoq.io/shsarv?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FKolkata)
+[![mywebsite Badge](https://img.shields.io/badge/-Portfolio-5e0270?style=for-the-badge&labelColor=5e0270&logo=google-earth&logoColor=white&link=https://shsarv.herokuapp.com/)](https://shsarv.herokuapp.com/)  [![gitstats Badge](https://img.shields.io/badge/GitStats-@shsarv-blue?style=for-the-badge&labelColor=orange&logo=data:Sourcerer.jpg&logoColor=white&link=https://gitstats.me/shsarv)](https://gitstats.me/shsarv) [![GitHub Badge](https://img.shields.io/badge/-github-24292e?style=for-the-badge&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shsarv)](https://github.com/shsarv) [![Blogger Badge](https://img.shields.io/badge/blog-fc4f08?&style=for-the-badge&logo=blogger&logoColor=white)](https://shsarv.blogspot.com/)
   
   </details>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="500" height="320" />
+
+
+<p align="justify">A Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I enjoy cooking and traveling .</p>
+<details>
+  <summary> Github profile trophy and github Metrices</summary>
   
-**Talking about Personal Stuffs:**
+  ![Metrics](https://metrics.lecoq.io/shsarv?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FKolkata)
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsarv" alt="shsarv" /></a> </p>
+  
+  </details>
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Deep learning and Web Development; 
-- 💬 Ask me about anything, I am happy to help;
-<!-- - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)-->
 
-**Languages and Tools:**  
+<!-- <p align="left"> <a href="https://twitter.com/sarveshroli" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshroli?logo=twitter&style=for-the-badge" alt="sarveshroli" /></a> </p> -->
 
-<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="python"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="javascript"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html5"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="php"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" title="jquery"></code>
-<code><img height="30" src="https://www.vippng.com/png/detail/398-3984086_history-of-c-programming-language-circle.png" title="C"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" title="css"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="django"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="node.js"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="react"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="mysql"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="linux"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180805/kff/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768dfc2b8.4692877115335279129165.jpg" title="sklearn"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCv"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" title="Scipy"></code>
-<code><img height="20" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="hadoop"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/cnn/cnn-icon.svg" title="CNN"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="mongodb"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" title="deep Learning"></code>
-<br />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="500" height="320" />
+
+- 🔭 I’m currently working on: **Boltzmann Machines**
+
+- 🌱 I’m currently learning: **Reinforcement Learning**
+
+- 👯 I’m looking to collaborate on: **ML Projects**
+
+- 🤝 I’m looking for help with: **GAN & Boltzmann Machines**
+
+- 👨‍💻 All of my open projects are available: [here](https://github.com/shsarv)
+
+- 💬 Ask me about: **NLP,ML,& MERN**
+
+- ⚡ Fun fact: **I am tea ☕ Positive**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsarv" alt="shsarv" /></a> </p> -->
 <!--https://github-readme-streak-stats.herokuapp.com/?user=shsarv&theme=dark-->
 <a href="https://github.com/shsarv"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shsarv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<h4 align="center"> if you like my work. please motivate me with ⭐</h4>
-<h4 align="center">😇Thanks for the visit. Good Wishes💐</h4>
+
+<h4 align="left">Info:</h4>
+
+<p> This Turtle is in Hibernation for Indefinite Time.</p>
+
+<h4 align="left">Support:</h4>
+<h6 align="center">Show your support by starring ⭐ some of the repositories  ! </h6>
+<p><a href="https://www.buymeacoffee.com/shsarv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shsarv" /></a>
+</p>
+
+
 
