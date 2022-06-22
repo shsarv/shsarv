@@ -1,39 +1,16 @@
-### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsarv&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Sarvesh+Kumar+Sharma;A+Data+Engineer;A+MERN+Stack+Developer;A+Learner;A+ML+Researcher;)](https://git.io/typing-svg)
-<!-- 
-<h3 align="left">Connect with me:</h3> -->
-<p align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Sarvesh+Kumar+Sharma;A+Data+Scientist;A+FullStack+Developer;A+Learner;A+ML+Researcher;)](https://git.io/typing-svg)
+
+<p align="center">
   <a href="mailto:shsarv2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="shsarv" /></a>
-  <a href="https://twitter.com/sarveshroli" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshroli"  /></a>
-  <a href="https://instagram.com/astro2sarvesh" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="astro2sarvesh"  /></a>
-  <a href="https://medium.com/@shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=Medium&logoColor=white" alt="@shsarv"  /></a>
-  <a href="https://discord.gg/jxCz52dQ5d" target="blank"><img align="center" src="https://img.shields.io/badge/discord-5865f2?&style=for-the-badge&logo=discord&logoColor=white"  /></a>
-  <a href="https://kaggle.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-4285F4?&style=for-the-badge&logo=kaggle&logoColor=white" alt="shsarv"  /></a>
-  </p>
-  <details>
-    <summary> other contacts </summary>
-    <p align="left">
-<a href="https://codepen.io/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/codepen-black?&style=for-the-badge&logo=codepen&logoColor=white" alt="shsarv" /></a>
-<a href="https://stackoverflow.com/users/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-f48024?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="shsarv" /></a>
-<a href="https://www.codechef.com/users/shsarv2001" target="blank"><img align="center" src="https://img.shields.io/badge/codechef-9a7b4f?&style=for-the-badge&logo=codechef&logoColor=white" alt="shsarv2001" /></a>
-<a href="https://www.hackerrank.com/_181500625" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-09B83E?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="_181500625" /></a>
-<a href="https://codeforces.com/profile/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/codeforces-ee1d52?&style=for-the-badge&logo=codeforces&logoColor=white" alt="shsarv"  /></a>
-<a href="https://www.leetcode.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=white" alt="shsarv" /></a>
-<a href="https://www.hackerearth.com/shsarv" target="blank"><img align="center" src="https://img.shields.io/badge/hackerearth-white?&style=for-the-badge&logo=hackerearth&logoColor=black" alt="shsarv" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shsarv/profile" target="blank"><img align="center" src="https://img.shields.io/badge/gfg-17c9652?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="shsarv/profile"  /></a>   
-    </p>
-  
-  
-[![mywebsite Badge](https://img.shields.io/badge/-Portfolio-5e0270?style=for-the-badge&labelColor=5e0270&logo=google-earth&logoColor=white&link=https://shsarv.herokuapp.com/)](https://shsarv.herokuapp.com/)  [![gitstats Badge](https://img.shields.io/badge/GitStats-@shsarv-blue?style=for-the-badge&labelColor=orange&logo=data:Sourcerer.jpg&logoColor=white&link=https://gitstats.me/shsarv)](https://gitstats.me/shsarv) [![GitHub Badge](https://img.shields.io/badge/-github-24292e?style=for-the-badge&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shsarv)](https://github.com/shsarv) [![Blogger Badge](https://img.shields.io/badge/blog-fc4f08?&style=for-the-badge&logo=blogger&logoColor=white)](https://shsarv.blogspot.com/)
-  
-  </details>
+</p>
 
+<h5 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h5>
 
+<p align="justify">Hello👋, I am Sarvesh Kumar Sharma From India. I am a machine learning and AI researcher with broad-based experience in building data-intensive applications and overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, and data mining algorithm. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.</p>
 
-<p align="justify">A Computer Science undergraduate from india 🇮🇳 , A data science enthusiast who want to feel pride in building machine learning models that translate data points for the help of mankind. I enjoy cooking and traveling .</p>
 <details>
   <summary> Github profile trophy and github Metrices</summary>
   
@@ -44,21 +21,19 @@
   </details>
 
 
-<!-- <p align="left"> <a href="https://twitter.com/sarveshroli" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshroli?logo=twitter&style=for-the-badge" alt="sarveshroli" /></a> </p> -->
-
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on: **Boltzmann Machines**
+- 🔭 I’m currently working on: **DQN & A2C with GAE**
 
-- 🌱 I’m currently learning: **Reinforcement Learning**
+- 🌱 I’m currently learning about : **Nature**
 
-- 👯 I’m looking to collaborate on: **ML Projects**
+- 👯 I’m looking to collaborate on: **Reinforcement learning**
 
-- 🤝 I’m looking for help with: **GAN & Boltzmann Machines**
+- 🤝 I’m looking for help with: **DDPG & SARSA**
 
-- 👨‍💻 All of my open projects are available: [here](https://github.com/shsarv)
+- 👨‍💻 Some of my basic projects are available: [here](https://github.com/shsarv)
 
-- 💬 Ask me about: **NLP,ML,& MERN**
+- 💬 Ask me about: **How to be Happy**
 
 - ⚡ Fun fact: **I am tea ☕ Positive**
 
@@ -69,16 +44,9 @@
 <a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/shsarv"><img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsarv" alt="shsarv" /></a> </p> -->
-<!--https://github-readme-streak-stats.herokuapp.com/?user=shsarv&theme=dark-->
-<!-- <a href="https://github.com/shsarv"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shsarv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-
-<h4 align="left">Info:</h4>
-
-<p> This Turtle is in Hibernation for Indefinite Time.</p>
 
 <h4 align="left">Support:</h4>
-<h6 align="center">Show your support by starring ⭐ some of the repositories  ! </h6>
+<h4 align="center">Show your support by starring ⭐ some of the repositories  ! </h4>
 <p><a href="https://www.buymeacoffee.com/shsarv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shsarv" /></a>
 </p>
 
