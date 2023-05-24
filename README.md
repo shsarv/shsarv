@@ -8,8 +8,9 @@
 </p>
 
 <h5 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h5>
+<h6 align="center">⚠️Info: On a Career Break Due to Medical Unfitness⚠️</h6>
 
-<p align="justify">Hello👋, I am Sarvesh Kumar Sharma From India. I am a machine learning and AI researcher with broad-based experience in building data-intensive applications and overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, and data mining algorithm. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.</p>
+<p align="justify">Hello👋, I am Sarvesh Kumar Sharma From India. I am a Data Scientist with broad-based experience in building data-intensive applications and overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, and data mining algorithm. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.</p>
 
 <details>
   <summary> Github profile trophy and github Metrices</summary>
@@ -25,9 +26,9 @@
 
 - 🔭 I’m currently working on: **DQN & A2C with GAE**
 
-- 🌱 I’m currently learning about : **Nature**
+- 🌱 I’m currently learning about : **Quantum Machine Learning**
 
-- 👯 I’m looking to collaborate on: **Reinforcement learning**
+- 👯 I’m looking to collaborate on: **Deep Reinforcement learning**
 
 - 🤝 I’m looking for help with: **DDPG & SARSA**
 
